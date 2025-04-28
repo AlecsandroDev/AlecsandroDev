@@ -43,6 +43,6 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlecsandroDev&layout=compact&theme=dracula)
 <br>
-![snake animation](https://github.com/AlecsandroDev/AlecsandroDev/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/AlecsandroDev/AlecsandroDev/output/github-contribution-grid-snake-dark.svg)
 
 ---
