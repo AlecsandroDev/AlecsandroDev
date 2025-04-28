@@ -5,12 +5,21 @@
 
 ---
 
-### Sobre Mim 👨‍💻 :
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHplb2ltMnk4NW9kczN1a2xubWd5aGJmcnN0N3VuenlvbWt6dzR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" padding="0" margin="10">
 
-Atualmente cursando Bacharelado Ciência da Computação na UNIMAR "Universidade de Marília". Apaixonado por tecnologia, com foco em Desenvolvimento Back-End, APIs e Automação usando Python. Atualmente aplicando meus conhecimentos em projetos acadêmicos e práticos, buscando sempre soluções eficientes, seguras e de fácil manutenção. Em busca de oportunidades para crescer como desenvolvedor, colaborar com times de tecnologia e aprimorar minhas habilidades constantemente.
+<h3 align="left" style="display: inline-block; vertical-align: top; height: 256px; text-align: justify;">
 
-#
+### Sobre Mim
 
+Atualmente cursando Bacharelado em Ciência da Computação na UNIMAR (Universidade de Marília).  
+Apaixonado por tecnologia, com foco em Desenvolvimento Back-End, APIs e Automação usando Python.  
+Aplicando meus conhecimentos em projetos acadêmicos e práticos, buscando sempre soluções eficientes, seguras e de fácil manutenção.  
+Em busca de oportunidades para crescer como desenvolvedor, colaborar com times de tecnologia e aprimorar minhas habilidades constantemente.
+
+</h3>
+
+---
+          
 ### :hammer_and_wrench: Linguagens e Ferramentas :
           
 <div style="display: flex; flex-wrap: wrap; justify-content: start;">
@@ -42,3 +51,5 @@ Atualmente cursando Bacharelado Ciência da Computação na UNIMAR "Universidade
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlecsandroDev/AlecsandroDev/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
