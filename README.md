@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=800&lines=Oi%2C+meu+nome+%C3%A9+Alecsandro+!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+Bem-Vindo!+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A1C99&width=800&lines=Oi%2C+meu+nome+%C3%A9+Alecsandro+!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+Bem-Vindo!+%F0%9F%98%89)](https://git.io/typing-svg)
 <br>
 <a href="https://www.linkedin.com/in/alecsandrocostasantos" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 )</a>
