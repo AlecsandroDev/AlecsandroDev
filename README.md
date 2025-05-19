@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=800&lines=Oi%2C+meu+nome+%C3%A9+Alecsandro+!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+Bem-Vindo!+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&width=800&lines=Oi%2C+meu+nome+%C3%A9+Alecsandro+!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+Bem-Vindo!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 <h2>Contato:</h2>
 
@@ -9,13 +9,11 @@
 
 <h3 align="left" style="display: inline-block; vertical-align: top; height: 256px; text-align: justify;">
 
-### Sobre Mim
+### 📫  Sobre Mim
 
-Atualmente cursando Bacharelado em Ciência da Computação na UNIMAR (Universidade de Marília).  
-Apaixonado por tecnologia, com foco em Desenvolvimento Back-End, APIs e Automação usando Python.  
-Aplicando meus conhecimentos em projetos acadêmicos e práticos, buscando sempre soluções eficientes, 
-seguras e de fácil manutenção. Em busca de oportunidades para crescer como desenvolvedor, colaborar 
-com times de tecnologia e aprimorar minhas habilidades constantemente.
+Atualmente cursando Bacharelado em Ciência da Computação na UNIMAR (Universidade de Marília), 
+sou paixonado por tecnologia, com foco em Desenvolvimento Back-End. Em busca de aplicar meus conhecimentos, desenvolvidos em projetos pessoal e acadêmicos, no ambiente real,
+a fim de aprimorar minhas habilidades e colaborar no crescimento e desenvolvimento das equipes de tecnologias.
 
 </h3>
 
